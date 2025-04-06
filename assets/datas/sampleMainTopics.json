@@ -1,0 +1,223 @@
+{
+  "Science": {
+    "Subtopics": [
+      {
+        "title": "Mechanics",
+        "chapters": [
+          { "title": "Introduction to Motion", "video_url": "https://www.youtube.com/watch?v=uIojjqSm0m4" },
+          { "title": "Newton's Laws of Motion", "video_url": "https://www.youtube.com/watch?v=-w6oW1ut4Dw" },
+          { "title": "Work, Energy, and Power", "video_url": "https://www.youtube.com/watch?v=_MR1Dp8-F8w" },
+          { "title": "Momentum and Collisions", "video_url": "https://youtu.be/FfaEbqmvKQA?si=IEauauTRFUtzuVAF" }
+        ]
+      },
+      {
+        "title": "Electricity and Magnetism",
+        "chapters": [
+          { "title": "Electric Circuits", "video_url": "https://youtu.be/r-SCyD7f_zI?si=6pMlocTmL1vwH2lV" },
+          { "title": "Magnetic Fields and Forces", "video_url": "https://youtu.be/csMqfwJRjCs?si=RJj3kpuGBDdD8vLx" },
+          { "title": "Electromagnetic Induction", "video_url": "https://youtu.be/yA8gZM3fghc?si=LSc6aT9mkg-aIAIr" }
+        ]
+      },
+      {
+        "title": "Waves and Optics",
+        "chapters": [
+          { "title": "Types of Waves", "video_url": "https://www.youtube.com/watch?v=o_QBLkG2oR0" },
+          { "title": "Reflection and Refraction", "video_url": "https://www.youtube.com/watch?v=Oh4m8Ees-3Q" },
+          { "title": "Lenses and Optical Instruments", "video_url": "https://www.youtube.com/watch?v=2G34u2bugFE" }
+        ]
+      },
+      {
+        "title": "Atomic Structure",
+        "chapters": [
+          { "title": "Introduction to Atoms", "video_url": "https://www.youtube.com/watch?v=pNroKeV2fgk" },
+          { "title": "Electron Configuration", "video_url": "https://www.youtube.com/watch?v=NIwcDnFjj98" },
+          { "title": "Periodic Trends", "video_url": "https://www.youtube.com/watch?v=hePb00CqvP0" }
+        ]
+      },
+      {
+        "title": "Chemical Reactions",
+        "chapters": [
+          { "title": "Types of Chemical Reactions", "video_url": "https://www.youtube.com/watch?v=aMU1RaRulSo" },
+          { "title": "Balancing Chemical Equations", "video_url": "https://www.youtube.com/watch?v=yA8TZJ2em6g" },
+          { "title": "Acids, Bases, and Salts", "video_url": "https://www.youtube.com/watch?v=jGOKug-dA0g" }
+        ]
+      },
+      {
+        "title": "Organic Chemistry",
+        "chapters": [
+          { "title": "Hydrocarbons", "video_url": "https://www.youtube.com/watch?v=7f3iTASC3VM" },
+          { "title": "Functional Groups", "video_url": "https://www.youtube.com/watch?v=nMTQKBn2Iss" },
+          { "title": "Polymers", "video_url": "https://www.youtube.com/watch?v=JknzbSVBuYM" }
+        ]
+      },
+      {
+        "title": "Cell Biology",
+        "chapters": [
+          { "title": "Introduction to Cells", "video_url": "https://www.youtube.com/watch?v=8IlzKri08kk" },
+          { "title": "Cell Membrane and Transport", "video_url": "https://www.youtube.com/watch?v=dPKvHrD1eS4" },
+          { "title": "Mitosis and Meiosis", "video_url": "https://www.youtube.com/watch?v=zrKdz93WlVk" }
+        ]
+      },
+      {
+        "title": "Genetics",
+        "chapters": [
+          { "title": "DNA and RNA", "video_url": "https://www.youtube.com/watch?v=8m6hHRlKwxY" },
+          { "title": "Inheritance Patterns", "video_url": "https://www.youtube.com/watch?v=kgtw4MRLEjY" },
+          { "title": "Mutations and Genetic Disorders", "video_url": "https://www.youtube.com/watch?v=vl6Vlf2thvI" }
+        ]
+      },
+      {
+        "title": "Ecology",
+        "chapters": [
+          { "title": "Ecosystems and Biomes", "video_url": "https://www.youtube.com/watch?v=iF4TAWmnK2c" },
+          { "title": "Food Chains and Energy Flow", "video_url": "https://www.youtube.com/watch?v=pmQyyVCDAcc" },
+          { "title": "Conservation and Sustainability", "video_url": "https://www.youtube.com/watch?v=Ot_KmOTYfRA" }
+        ]
+      }
+    ]
+
+},
+  "Maths": {
+    "Subtopics": [
+      {
+        "title": "Numbers and Operations",
+        "chapters": [
+          { "title": "Introduction to Numbers and Number Systems", "video_url": "https://www.youtube.com/watch?v=evHIHwRcqZc" },
+          { "title": "Addition, Subtraction, Multiplication, and Division", "video_url": "https://www.youtube.com/watch?v=HAhg0uXn9GA" },
+          { "title": "Fractions, Decimals, and Percentages", "video_url": "https://www.youtube.com/watch?v=UCBXoLb2ItI" },
+          { "title": "Order of Operations", "video_url": "https://www.youtube.com/watch?v=8m6hHRlKwxY" },
+          { "title": "Estimating and Rounding Numbers", "video_url": "https://www.youtube.com/watch?v=8m6hHRlKwxY" }
+        ]
+      },
+      {
+        "title": "Algebra",
+        "chapters": [
+          { "title": "Introduction to Algebraic Expressions", "video_url": "https://www.youtube.com/watch?v=J-6dMhT2xOQ" },
+          { "title": "Solving Linear Equations", "video_url": "https://www.youtube.com/watch?v=bAerID24QJ0" },
+          { "title": "Quadratic Equations", "video_url": "https://www.youtube.com/watch?v=fZeMtU4R8_8" },
+          { "title": "Functions and Graphs", "video_url": "https://www.youtube.com/watch?v=45gYE0s5igg" }
+        ]
+      },
+      {
+        "title": "Geometry",
+        "chapters": [
+          { "title": "Basic Geometric Shapes", "video_url": "https://www.youtube.com/watch?v=Ux_kLd7qAcY" },
+          { "title": "Angles and Triangles", "video_url": "https://www.youtube.com/watch?v=nwLEByAAqlM" },
+          { "title": "Circles and Their Properties", "video_url": "https://www.youtube.com/watch?v=Fzaof9cX-PM" }
+        ]
+      }
+    ]
+  },
+  "Visual Arts": {
+    "Subtopics": [
+      {
+        "title": "Drawing and Sketching",
+        "chapters": [
+          { "title": "Basic Drawing Techniques", "video_url": "https://www.youtube.com/watch?v=9XofYc_WUF8" },
+          { "title": "Shading and Perspective", "video_url": "https://www.youtube.com/watch?v=P4oPH0FMEB8" },
+          { "title": "Proportions and Anatomy", "video_url": "https://www.youtube.com/watch?v=L303Qy6rivs" }
+        ]
+      },
+      {
+        "title": "Painting",
+        "chapters": [
+          { "title": "Introduction to Watercolors", "video_url": "https://www.youtube.com/watch?v=tDdfPMTX15Y" },
+          { "title": "Oil Painting Techniques", "video_url": "https://www.youtube.com/watch?v=Zv_OkJfgheM" },
+          { "title": "Color Theory", "video_url": "https://www.youtube.com/watch?v=YeI6Wqn4I78" }
+        ]
+      },
+      {
+        "title": "Digital Art",
+        "chapters": [
+          { "title": "Introduction to Digital Tools", "video_url": "https://www.youtube.com/watch?v=3dbnKDXNtLw&utm_source=chatgpt.com" },
+          { "title": "Creating Digital Illustrations", "video_url": "https://www.youtube.com/watch?v=3Z6pWPq9jvI" },
+          { "title": "Photo Editing Basics", "video_url": "https://www.youtube.com/watch?pp=ygUMI3BpY3NlZGl0YXBw&v=0mczz27i19w&utm_source=chatgpt.com" }
+        ]
+      }
+    ]
+  },
+  "Performing Arts": {
+    "Subtopics": [
+      {
+        "title": "Music",
+        "chapters": [
+          { "title": "Introduction to Music Theory", "video_url": "https://www.youtube.com/watch?v=rgaTLrZGlk0&utm_source=chatgpt.com" },
+          { "title": "Learning Musical Instruments", "video_url": "https://www.youtube.com/watch?v=a8lZQnQZg_A&utm_source=chatgpt.com" },
+          { "title": "Composing and Arranging Music", "video_url": "https://www.youtube.com/watch?v=HBG1SmWMMls" }
+        ]
+      },
+      {
+        "title": "Dance",
+        "chapters": [
+          { "title": "Fundamentals of Dance Movements", "video_url": "https://www.youtube.com/watch?v=C62596gVnT8" },
+          { "title": "Choreography Basics", "video_url": "https://www.youtube.com/watch?v=i9isCQumafY" },
+          { "title": "Dance Styles: Ballet, Hip-Hop, and Contemporary", "video_url": "https://www.youtube.com/watch?v=DBGoSFIv__4" }
+        ]
+      },
+      {
+        "title": "Theater",
+        "chapters": [
+          { "title": "Acting Techniques", "video_url": "https://www.youtube.com/watch?v=bqYTM4lGb-M" },
+          { "title": "Stagecraft and Set Design", "video_url": "https://www.youtube.com/playlist?list=PL48EDBCB4915D0ACA" },
+          { "title": "Directing and Producing Plays", "video_url": "https://www.youtube.com/watch?v=XEwiPCLjJ9U" }
+        ]
+      }
+    ]
+  },
+  "Financial Literacy": {
+    "Subtopics": [
+      {
+        "title": "Personal Finance",
+        "chapters": [
+          { "title": "Budgeting and Saving", "video_url": "https://www.youtube.com/watch?v=yaPuxu51qi8" },
+          { "title": "Understanding Credit and Debt", "video_url": "https://www.youtube.com/watch?v=cB4RkhRVS8Y" },
+          { "title": "Insurance and Risk Management", "video_url": "https://www.youtube.com/watch?v=yaPuxu51qi8" }
+        ]
+      },
+      {
+        "title": "Investing",
+        "chapters": [
+          { "title": "Introduction to Stocks and Bonds", "video_url": "https://www.youtube.com/watch?v=jNZ7TFYP2Oc" },
+          { "title": "Risk Management in Investments", "video_url": "https://www.youtube.com/watch?v=yaPuxu51qi8" },
+          { "title": "Real Estate and Alternative Investments", "video_url": "https://www.youtube.com/watch?v=jDN7XmhFWN0" }
+        ]
+      },
+      {
+        "title": "Entrepreneurship",
+        "chapters": [
+          { "title": "Starting a Business", "video_url": "https://www.youtube.com/watch?v=CIwxwtO8nAM" },
+          { "title": "Marketing and Sales Strategies", "video_url": "https://www.youtube.com/watch?v=5VHi4rOnUCE" },
+          { "title": "Financial Planning for Entrepreneurs", "video_url": "https://www.youtube.com/watch?v=FwyIAC84zao" }
+        ]
+      }
+    ]
+  },
+  "Computer Science": {
+    "Subtopics": [
+      {
+        "title": "Programming",
+        "chapters": [
+          { "title": "Introduction to Python", "video_url": "https://www.youtube.com/watch?v=kqtD5dpn9C8" },
+          { "title": "Data Structures and Algorithms", "video_url": "https://www.youtube.com/watch?v=8hly31xKli0" },
+          { "title": "Object-Oriented Programming", "video_url": "https://www.youtube.com/watch?v=SS-9y0H3Si8" }
+        ]
+      },
+      {
+        "title": "Web Development",
+        "chapters": [
+          { "title": "HTML and CSS Basics", "video_url": "https://www.youtube.com/watch?v=G3e-cpL7ofc" },
+          { "title": "JavaScript for Beginners", "video_url": "https://www.youtube.com/watch?v=EerdGm-ehJQ" },
+          { "title": "Backend Development with Node.js", "video_url": "https://www.youtube.com/watch?v=MIJt9H69QVc" }
+        ]
+      },
+      {
+        "title": "Artificial Intelligence",
+        "chapters": [
+          { "title": "Introduction to Machine Learning", "video_url": "https://www.youtube.com/watch?v=i_LwzRVP7bg" },
+          { "title": "Neural Networks and Deep Learning", "video_url": "https://www.youtube.com/watch?v=KiW-W4v0nBo" },
+          { "title": "Applications of AI in Real Life", "video_url": "https://www.youtube.com/watch?v=2ePf9rue1Ao" }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+# Dockerfile
+FROM python:3.9.17-bookworm
+
+# Allow statements and log messages to immediately appear in the Knative logs
+ENV PYTHONUNBUFFERED True
+
+# Copy application code
+ENV APP_HOME /back-end
+WORKDIR $APP_HOME
+COPY . ./
+
+RUN pip install --no-cache-dir --upgrade pip
+RUN pip install --no-cache-dir -r requirements.txt
+RUN apt-get update && apt-get install -y ffmpeg
+
+CMD exec gunicorn --bind :$PORT --workers 1 --threads 8 --timeout 0 app:app

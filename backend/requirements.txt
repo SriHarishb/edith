@@ -1,0 +1,16 @@
+Flask
+Pillow
+moviepy==1.0.3
+pydub
+firebase-admin
+google-genai
+google-cloud-storage
+google-cloud-firestore
+google-cloud-texttospeech
+google-cloud-secret-manager==2.16.0
+gunicorn
+dotenv
+flask-CORS
+ffmpeg
+ffprobe
+dotenv

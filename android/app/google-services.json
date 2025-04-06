@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "763539946053",
+    "project_id": "edith-454415",
+    "storage_bucket": "edith-454415.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763539946053:android:59333a0653201da16ec12c",
+        "android_client_info": {
+          "package_name": "com.example.edith"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763539946053-4dp1deahj3n4q30vkhs8tghvuuunnrp3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.edith",
+            "certificate_hash": "45c2a79d0990d05288eed1ce75a21e3374796caa"
+          }
+        },
+        {
+          "client_id": "763539946053-q520dfb4itui010tvg6m0lc4n3lv4ejv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk7MoY0rDJqe9itLcgMcbsKv_zuDik2BA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763539946053-q520dfb4itui010tvg6m0lc4n3lv4ejv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "763539946053-3dadhta6ppm04j1lpj227f0i3gfac1r6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.edith"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

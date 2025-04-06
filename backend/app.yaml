@@ -1,0 +1,20 @@
+runtime: python39  # Specify the Python runtime version (e.g., Python 3.9)
+
+entrypoint: gunicorn -b :$PORT app:app  # Use Gunicorn as the WSGI server
+
+# Environment variables (optional, add any required variables here)
+env_variables:
+  FLASK_ENV: production
+  GOOGLE_APPLICATION_CREDENTIALS: "service.json"  # Replace with your service account key path if needed
+
+# Handlers for routing requests (optional, if you have static files or specific routes)
+handlers:
+- url: /.*
+  script: auto
+
+# Optional: Define instance class and scaling settings
+instance_class: F2  # Use a higher instance class if your app requires more resources
+automatic_scaling:
+  target_cpu_utilization: 0.65
+  min_instances: 1
+  max_instances: 10
