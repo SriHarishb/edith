@@ -76,13 +76,11 @@ This project is licensed under the
 
 ## Collaborators:
 
-- Sri Harish : @SriHarishb
-
-- Mohammed Saajid : @Mohammed-Saajid
-
 - Arjun : @NSArjun
+  
+- Mohammed Saajid : @Mohammed-Saajid
 
 - Tom Francies Xaviour L : @Tomfx03
 
-- Keerthana Saravanan : @KEERTHANA SARAVANAN
+- Sri Harish : @SriHarishb
 
